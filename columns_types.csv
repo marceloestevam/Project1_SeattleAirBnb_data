@@ -107,7 +107,5 @@ amenities_smoking_allowed,int64
 amenities_other_pets,int64
 amenities_doorman,int64
 amenities_washer_dryer,int64
-cleaning_fee,float64
 host_acceptance_rate,float64
 host_response_rate,float64
-extra_people,float64
