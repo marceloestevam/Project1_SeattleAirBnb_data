@@ -1,8 +1,6 @@
 # Project1_SeattleAirBnb_data
 Repository for Project 1 of the Data Scientist Nanodegree from Udacity
 
----
-
 # Installations
 Make sure to having [anaconda](https://www.anaconda.com/products/individual) installed.
 Lauch the Jupyter Notebook and use it to navigate and open the file `1st_project_nanodegree.ipynb`.
@@ -12,13 +10,9 @@ please uncomment the second cell, run it then restart the kernel of the notebook
 
 Once the scikit-learn version is updated, comment again the first two cells and then you can run all cells.
 
----
-
 # Motivation
 To start my journey as a data scientist, I have decided to challenge myself and do data analysis using a real-life dataset.
 I have chosen a use case that would be very useful not only for me but also for many other people that are planning to travel and want to use Airbnb for their trip.
-
----
 
 # File Description
 `airbnb_seattle_dataset`: this folder contains a copy of the Airbnb Seattle Data, available at [Kaggle](https://www.kaggle.com/airbnb/seattle), which describes listings activity of homestays in Seattle, WA (USA).
@@ -28,8 +22,6 @@ I have chosen a use case that would be very useful not only for me but also for 
 `data_outputs`: this folders stores the .csv and .json outputs from the notebook. These are supplementary files to help understand some of the transformations applied to the dataset
 
 `images_outputs`: this folders stores the .png outputs from the notebook, such as charts and graphs.
-
----
 
 # Results
 The main findings of the code can be found at the post available here at Medium [].
