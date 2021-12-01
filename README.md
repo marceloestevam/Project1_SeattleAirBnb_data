@@ -24,7 +24,7 @@ I have chosen a use case that would be very useful not only for me but also for 
 `images_outputs`: this folders stores the .png outputs from the notebook, such as charts and graphs.
 
 # Results
-The main findings of the code can be found at the post available here at Medium [].
+The main findings of the code can be found at the post available here at [Medium](https://medium.com/@marcelo.a.estevam/using-data-science-to-find-better-accommodation-in-seattle-5bb42fa288ff).
 
 # Licensing, Authors, Acknowledgements
 Huge shout outs to [Aleksandra Deis](https://www.kaggle.com/aleksandradeis) and [Yogi Cahyono](https://www.kaggle.com/yogi045)! Their notebooks (available in the same page as the dataset) helped me a lot to strutucture my ETL process and how to make some visualizations found on my notebook.
