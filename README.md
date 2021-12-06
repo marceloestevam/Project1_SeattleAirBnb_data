@@ -5,10 +5,11 @@ Repository for Project 1 of the Data Scientist Nanodegree from Udacity
 Make sure to having [anaconda](https://www.anaconda.com/products/individual) installed.
 Launch the Jupyter Notebook and use it to navigate and open the file `1st_project_nanodegree.ipynb`.
 
-Uncomment the first cell and run it. If the scikit-learn version is lower than version=1.0.1,
-please uncomment the second cell, run it then restart the kernel of the notebook.
+Run the second cell to verify the scikit-learn version.
+If the scikit-learn version is lower than version=1.0.1,
+please uncomment the fourth cell, run it then restart the kernel of the notebook.
 
-Once the scikit-learn version is updated, comment again the first two cells and then you can run all cells.
+Once the scikit-learn version is updated, comment again the fourth cell and then you can run all cells.
 
 # Motivation
 To start my journey as a data scientist, I have decided to challenge myself and do data analysis using a real-life dataset.
